@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: L’Architecture de Ledoux
-email: contact@ledoux-architecture.fr
-description: "Architecture, littérature, philosophie et société au tournant des Lumières"
+title: Projet collaboratif Deloynes
+email: moulinfabrice@yahoo.fr
+description: "une édition collaborative d'une brochure de critique d'art"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ledouxarchi
+twitter_username: deloynes
 
 # Build settings
 theme: minima
@@ -39,7 +39,7 @@ header_pages:
 rss: rss
 
 # analytics
-google_analytics: UA-169387941-1
+# google_analytics: UA-169387941-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
