@@ -4,7 +4,7 @@
 layout: home
 list_title: "Actualités du projet"
 ---
-# Architecture, littérature, <br/>philosophie et société <br/>au tournant des Lumières
+# Une édition numérique collaborative <br/>d'une brochure de critique d'art d'Ancien Régime
 
 ## *L’Architecture considérée sous le rapport de l’Art des mœurs <br/>et de la législation* <br/>de Claude-Nicolas Ledoux, <br/>une édition numérique
 
