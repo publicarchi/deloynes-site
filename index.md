@@ -10,6 +10,6 @@ list_title: "Actualités du projet"
 
 *L’Architecture considérée sous le rapport de l’Art des mœurs et de la législation* de Claude-Nicolas 
 
-La numérisation et la documentation des témoins dispersés 
+La numérisation et la documentation des témoins dispersés, oui
 
 Cette recherche bénéficie du soutien du [Labex Les passés dans le présent. Histoire, patrimoine, mémoire](http://passes-present.eu)
